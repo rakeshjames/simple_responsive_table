@@ -1,0 +1,10 @@
+global-styling:
+  version: 1.x
+  css:
+    component:
+      css/simple-responsive-table.css: { media: screen }
+  js:
+    js/simple-responsive-table.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings
